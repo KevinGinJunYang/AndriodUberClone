@@ -1,2 +1,2 @@
 # AndriodUberClone
-Testing out android application programming
+Learning and testing out android application programming
